@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/belawal-umer-full-stack-developer/](https://www.linkedin.com/in/belawal-umer-full-stack-developer/)
 
-- 💬 Ask me about **react, laravel, rails, typscript, aws**
+- 💬 Ask me about **React, Vue, Ruby on Rails, Laravel, Typscript, AWS, Heroku**
 
 - 📫 How to reach me **engineerbilawalumer@gmail.com**
 
