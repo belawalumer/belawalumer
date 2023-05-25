@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Belawal Umer</h1>
 <h3 align="center">A passionate full stack enthusiastic developer</h3>
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belawalumer&label=Profile%20views&color=0e75b6&style=flat" alt="belawalumer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belawalumer" alt="belawalumer" /></a> </p>
@@ -14,6 +14,20 @@
 - 💬 Ask me about **React, Vue, Ruby on Rails, Laravel, Typscript, AWS, Heroku**
 
 - 📫 How to reach me **engineerbilawalumer@gmail.com**
+
+💻 With a strong foundation in both front-end and back-end development, I thrive in the fast-paced world of full stack development. From designing user interfaces that captivate users to crafting scalable server-side solutions, I love being involved in every aspect of the software development lifecycle.
+
+🌐 My expertise lies in building responsive and intuitive user interfaces using modern front-end technologies such as HTML5, CSS3, and JavaScript. I have a keen eye for design and strive to create visually appealing and user-friendly applications that provide seamless experiences across devices.
+
+⚙️ On the back end, I am well-versed in server-side languages like Node.js and Python, as well as frameworks such as Express and Django. I enjoy architecting efficient and scalable APIs, integrating databases, and ensuring the security and performance of applications.
+
+🔧 I have hands-on experience with various databases, including SQL and NoSQL solutions, and understand the importance of efficient data management for seamless application functionality.
+
+🚀 As an advocate for best practices and continuous learning, I keep up with the latest industry trends and technologies. I am comfortable working with version control systems like Git and have experience collaborating with teams using Agile methodologies.
+
+🌟 Besides coding, I am a strong believer in the power of teamwork and effective communication. I enjoy collaborating with cross-functional teams, brainstorming ideas, and solving complex problems together.
+
+✨ If you're looking for a dedicated and versatile full stack developer who can bring your ideas to life, feel free to explore my repositories and get in touch. Let's build something amazing together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
