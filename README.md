@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Belawal Umer</h1>
-<h3 align="center">A passionate full stack enthusiastic</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belawalumer&label=Profile%20views&color=0e75b6&style=flat" alt="belawalumer" /> </p>
@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/belawal-umer-full-stack-developer/](https://www.linkedin.com/in/belawal-umer-full-stack-developer/)
 
-- 💬 Ask me about **React, Vue, Ruby on Rails, Laravel, Typscript, AWS, Heroku**
+- 💬 Ask me about **React, Vue, Ruby on Rails, Laravel, Typescript, AWS, Heroku**
 
 - 📫 How to reach me **engineerbilawalumer@gmail.com**
 
-💻 With a strong foundation in both front-end and back-end development, I thrive in the fast-paced world of full stack development. From designing user interfaces that captivate users to crafting scalable server-side solutions, I love being involved in every aspect of the software development lifecycle.
+💻 With a strong foundation in both front-end and back-end development, I thrive in the fast-paced world of full-stack development. From designing user interfaces that captivate users to crafting scalable server-side solutions, I love being involved in every aspect of the software development lifecycle.
 
 🌐 My expertise lies in building responsive and intuitive user interfaces using modern front-end technologies such as HTML5, CSS3, and JavaScript. I have a keen eye for design and strive to create visually appealing and user-friendly applications that provide seamless experiences across devices.
 
@@ -28,7 +28,7 @@
 
 🌟 Besides coding, I am a strong believer in the power of teamwork and effective communication. I enjoy collaborating with cross-functional teams, brainstorming ideas, and solving complex problems together.
 
-✨ If you're looking for a dedicated and versatile full stack developer who can bring your ideas to life, feel free to explore my repositories and get in touch. Let's build something amazing together!
+✨ If you're looking for a dedicated and versatile full-stack developer who can bring your ideas to life, feel free to explore my repositories and get in touch. Let's build something amazing together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
