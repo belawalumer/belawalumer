@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain, Web3**
+- 🌱 I’m currently learning **Blockchain, Web3, Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/belawal-umer-full-stack-developer/](https://www.linkedin.com/in/belawal-umer-full-stack-developer/)
-
-- 💬 Ask me about **React, Vue, Ruby on Rails, Laravel, Typescript, AWS, Heroku**
+- 💬 Ask me about **React, Vue, Ruby on Rails, Laravel, Typescript, AWS, Heroku, AI**
 
 - 📫 How to reach me **engineerbilawalumer@gmail.com**
 
