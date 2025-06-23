@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Belawal Umer</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Web Architect</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belawalumer&label=Profile%20views&color=0e75b6&style=flat" alt="belawalumer" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on **Artificial Intelligence, GPT Bots, OpenAI and LLM integrations**
 
-- 💬 Ask me about **React, Vue, Ruby on Rails, Laravel, Typescript, AWS, Heroku, AI, Node**
+- 💬 Ask me about **React, Vue, Ruby on Rails, Typescript, AI, Node, AWS, Heroku, GCP**
 
 - 📫 How to reach me **engineerbilawalumer@gmail.com**
 
