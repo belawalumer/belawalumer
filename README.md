@@ -4,8 +4,6 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belawalumer&label=Profile%20views&color=0e75b6&style=flat" alt="belawalumer" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently working on **Artificial Intelligence, GPT Bots, OpenAI and LLM integrations**
 
 - 💬 Ask me about **React, Vue, Ruby on Rails, Typescript, AI, Node, AWS, Heroku, GCP**
